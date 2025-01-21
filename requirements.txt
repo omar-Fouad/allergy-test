@@ -8,5 +8,5 @@ streamlit_chat==0.1.1
 torch==2.5.1
 torchvision==0.20.1
 reportlab
-pyrealsense2
+pyrealsense2==2.55.1
 opencv-python
